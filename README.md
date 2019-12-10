@@ -1,7 +1,7 @@
 ### Date created
 Include the date you created this project and README file.
 
-Programming for Data Science Git Project was created on Tuesday, December 10, 2019.
+Programming for Data Science Bikeshare Project was created on Tuesday, December 10, 2019.
 
 ### Project Title
 Programming for Data Science for Enterprise
