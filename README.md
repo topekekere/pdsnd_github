@@ -1,8 +1,16 @@
 ### Date created
 Include the date you created this project and README file.
 
+Programming for Data Science Bikeshare Project was created on Tuesday, December 10, 2019.
+
 ### Project Title
+<<<<<<< HEAD
 Programming for Data Science Nanodegree
+||||||| merged common ancestors
+Replace the Project Title
+=======
+Exploring US Bikeshare Data with Python
+>>>>>>> documentation
 
 ### Description
 Describe what your project is about and what it does
