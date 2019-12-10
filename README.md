@@ -4,7 +4,7 @@ Include the date you created this project and README file.
 Programming for Data Science Bikeshare Project was created on Tuesday, December 10, 2019.
 
 ### Project Title
-Programming for Data Science for Enterprise
+Exploring US Bikeshare Data with Python
 
 ### Description
 Describe what your project is about and what it does
